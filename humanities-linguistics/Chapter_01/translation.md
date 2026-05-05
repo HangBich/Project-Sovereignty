@@ -19,7 +19,7 @@ If you owe the bank a hundred thousand dollars, the bank owns you. If you owe th
 
 **TWO YEARS AGO**, by a series of strange coincidences, I found myself attending a garden party at Westminster Abbey. I was a bit uncomfortable. It's not that other guests weren't pleasant and amicable, and Father Graeme, who had organized the party, was nothing if not a gracious and charming host.
 
-***HAI NĂM TRƯỚC,** nhờ một loạt những sự tình cờ lạ lùng, tôi đã có mặt trong một buổi tiệc vườn tại Tu viện Westminster. Tôi cảm thấy hơi không thoải mái. Không phải vì những vị khách khác thiếu đi sự dễ mến hay thân thiện, và Cha Graeme, người tổ chức bữa tiệc, lại là một chủ nhà cực kỳ lịch thiệp và nhã nhặn. *
+***HAI NĂM TRƯỚC,** nhờ một loạt những sự tình cờ lạ lùng, tôi đã có mặt trong một buổi tiệc vườn tại Tu viện Westminster. Tôi cảm thấy hơi không thoải mái. Không phải vì những vị khách khác thiếu đi sự dễ mến hay thân thiện, và Cha Graeme, người tổ chức bữa tiệc, lại là một chủ nhà cực kỳ lịch thiệp và nhã nhặn.*
 
 
 ## Suy ngẫm sau chương này
