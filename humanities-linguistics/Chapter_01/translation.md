@@ -2,7 +2,7 @@
 > *Chương 1: Về trải nghiệm của sự nhiễu loạn đạo đức* 
 
 **Trạng thái:** Đang dịch (Draft)
-**Ngày cập nhật:** 05/05/2026
+**Ngày cập nhật:** 17/05/2026
 
 * **Debt** (noun):
     1. A sum of money owed: *Một khoản tiền nợ.*
