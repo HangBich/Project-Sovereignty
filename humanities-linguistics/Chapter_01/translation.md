@@ -2,7 +2,7 @@
 > *Chương 1: Về trải nghiệm của sự nhiễu loạn đạo đức* 
 
 **Trạng thái:** Đang dịch (Draft)
-**Ngày cập nhật:** 17/05/2026
+**Ngày cập nhật:** 18/05/2026
 
 * **Debt** (noun):
     1. A sum of money owed: *Một khoản tiền nợ.*
@@ -32,6 +32,16 @@ We chatted. She told me about her job. I told her I had been involved for many y
 "Actually," I said, "I think it's kind of amazing how much we did manage to accomplish in those first couple of years".
 
 *Thực sự thì, tôi trả lời, Tôi thấy thật kinh ngạc khi nhìn lại xem chúng tôi đã xoay xở để đạt được nhiều kết quả đến mức nào ngay trong vài năm đầu đó."*
+
+"For example?"
+
+"Well, for example, we managed to almost completely destroy the IMF."
+
+*Thì, ví dụ như, chúng tôi đã  suýt chút nữa phá hủy hoàn toàn quỹ iền tệ quốc tế rồi đấy.*
+
+As it happend, she didn't actually know what the IMF was, so I offered that the International Monetary Fund basically acted as the world's debt enforces - "You might say, the high-finance equivalent of the guys who come to break your legs." I launched into historical background, explaining how, during the 70s oil crisis, OPEC countries ended up pouring so much of the newfound riches into Western banks that the banks couldn't figure out where to invest the money; how Citibank and Chase therefore began seding agents around the world trying to convince Third World dictators and politicians to take out loands (at the time, this was called "go-go banking"); how they started out at extremely low rates of interest that almost immediately skyrocketed to 20 percentor so due to tight us money policies in the early '80s; how, during the 80s and 90s, this led to the 
+
+
 
 ## Suy ngẫm sau chương này
 > nothing if not X = rất X | không có gì ngoài X
