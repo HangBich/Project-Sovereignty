@@ -2,7 +2,7 @@
 > *Chương 1: Về trải nghiệm của sự nhiễu loạn đạo đức* 
 
 **Trạng thái:** Đang dịch (Draft)
-**Ngày cập nhật:** 18/05/2026
+**Ngày cập nhật:** 30/05/2026
 
 * **Debt** (noun):
     1. A sum of money owed: *Một khoản tiền nợ.*
@@ -39,7 +39,11 @@ We chatted. She told me about her job. I told her I had been involved for many y
 
 *Thì, ví dụ như, chúng tôi đã  suýt chút nữa phá hủy hoàn toàn quỹ iền tệ quốc tế rồi đấy.*
 
-As it happend, she didn't actually know what the IMF was, so I offered that the International Monetary Fund basically acted as the world's debt enforces - "You might say, the high-finance equivalent of the guys who come to break your legs." I launched into historical background, explaining how, during the 70s oil crisis, OPEC countries ended up pouring so much of the newfound riches into Western banks that the banks couldn't figure out where to invest the money; how Citibank and Chase therefore began seding agents around the world trying to convince Third World dictators and politicians to take out loands (at the time, this was called "go-go banking"); how they started out at extremely low rates of interest that almost immediately skyrocketed to 20 percentor so due to tight us money policies in the early '80s; how, during the 80s and 90s, this led to the 
+As it happened, she didn't actually know what the IMF was, so I offered that the International Monetary Fund basically acted as the world's debt enforcers - "You might say, the high-finance equivalent of the guys who come to break your legs."
+
+*Trớ trêu thay, cô ấy lại không thực sự biết IMF là gì, vì vậy tôi bèn giải thích rằng Quỹ tiền tệ Quốc tế về cơ bản đóng vai trò như những kẻ đòi nợ thuê của thế giới - 'Bạn có thể nói, họ là phiên bản cao caaso thuộc giới tài chính của những gã chuyên đến bẻ giò bạn để siết nợ.'*
+
+I launch 
 
 
 
@@ -69,4 +73,16 @@ As it happend, she didn't actually know what the IMF was, so I offered that the 
 > tear gas = hơi cay
 
 > accomplish = hoàn thành, đạt được 
+
+> debt enforcers: kẻ đòi nợ thuê tay sai đòi nợ 
+
+> high-finance: giới tài chính cấp cao (ngân hàng thế giới, IMF)
+
+
+mô phỏng được,
+
+lrm server 
+project eps32+web 
+cổng analog - cắm vào adc, chủ động lấy mẫu 
+cổng digital 
 
