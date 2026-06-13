@@ -2,7 +2,7 @@
 > *Chương 1: Về trải nghiệm của sự nhiễu loạn đạo đức* 
 
 **Trạng thái:** Đang dịch (Draft)
-**Ngày cập nhật:** 30/05/2026
+**Ngày cập nhật:** 13/06/2026
 
 * **Debt** (noun):
     1. A sum of money owed: *Một khoản tiền nợ.*
@@ -65,8 +65,23 @@ I launched into historical background, explaining how, during the '70s oil crisi
 
 "But," she objected, as if this were self-evident, "they'd borrowed the money! Surely one has to pay one's debts." 
 
-*Nhưng, cô ta phản đối, có vay thì có trả chứ."
+*Nhưng, cô ta phản đối, có vay thì có trả chứ.*
 
+It was at this point that I realized this was going to be a very different sort of conversation than I had originally anticipated. 
+
+*Chính vào lúc này, tôi nhận ra rằng đây sẽ là một kiểu trò chuyện rất khác so với những gì tôi hình dung ban đầu.*
+
+Where to start? I could have begun by explaining how these loans had originally been taken out by unelected dictators who placed most of it directly in their Swiss bank accounts, and ask her to contemplate the jusstice of insisting that the lenders be repaid, not by the dictator, or even by his cronies, but by literally taking food from the mouths of hungry children. 
+
+*Bắt đầu từ đâu bây giờ? Tôi đã có thể bắt đầu bằng cách giải thích rằng những khoản vay này ban đầu vốn được bốc (cho vay) bởi những kẻ độc tài không do dân bầu cử - những kẻ đã tuồn thẳng phần lớn số tiền đó vào tài khoản ngân hàng Thụy Sĩ của riêng chúng. Và rồi tôi có thể bảo cô ta thử suy ngẫm xem có cái gọi là 'công lý' nào không khi cứ khăng khăng bắt người ta phải hoàn trả tiền cho các chủ nợ; mà cái sự hoàn trả đó lại không đến từ túi tiền của tên độc tài hay bè lũ thân tín của hắn, mà là bằng cách giật phăng miếng ăn từ miệng của những đứa trẻ đang chịu đói theo đúng nghĩa đen.*
+
+Or to think about how many of these poor countries had actually already paid back what they'd borrowed three or four times now, but that through the miracle of compound interest, it still hadn't made a significant dent in the principal. 
+
+*Hoặc thử nghĩ về việc biết bao quốc gia nghèo trong số này trên thực tế đã hoàn trả số tiền vay mượn gấp ba, bốn lần tính đến thời điểm hiện tại; nhưng rồi bởi cái gọi là 'phép màu' của lãi kép, tất cả những điều đó vẫn chưa hề làm giảm bớt được phần nào khoản tiền gốc.*
+
+I could also observe that there was a difference between refinancing loans, and demanding that in order to obtain refinancing, countries have to follow some orthodox free-market economic policy designed in Washington or Zurich that their citizens had never agreed to and never would, and that it was a bit dishonest to insist that countries adopt democratic constitutions and also insist that, whoever gets elected, they have no control over their country's policies anyway.
+
+*Tôi cũng quan sát rằng có những sự đáo hạn, và điều kiện để được đáo hạn, những quốc gia phải tuân theo một số  *
 
 ## Suy ngẫm sau chương này
 > nothing if not X = rất X | không có gì ngoài X
@@ -128,10 +143,9 @@ I launched into historical background, explaining how, during the '70s oil crisi
 > self-evident: hiển nhiên, chân lý tự thân không cần bàn cãi 
 
 > as if: như thể 
-mô phỏng được,
 
-lrm server 
-project eps32+web 
-cổng analog - cắm vào adc, chủ động lấy mẫu 
-cổng digital 
+> anticipate: lường trước/dự đoán/kỳ vọng
 
+> originally: ban đầu
+
+> make a dent in something: giảm bớt/găm nhấm/sứt mẻ một lượng đáng kể cái gì đó.
